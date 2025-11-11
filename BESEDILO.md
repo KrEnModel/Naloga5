@@ -1,6 +1,6 @@
 # Uvod v Git
 
-Dodano besedilo v 1. odstavek. Hej ekipa! Git je orodje, ki omogoča **pregledno spremljanje sprememb v datotekah** ter **enostavno in učinkovito sodelovanje med člani skupine**.
+Dodano besedilo v 1. odstavek. Hej ekipa! Drugič dodajam besedilo v ta odstavek, ker mi je dolgčas. Gremo ekipa! Git je orodje, ki omogoča **pregledno spremljanje sprememb v datotekah** ter **enostavno in učinkovito sodelovanje med člani skupine**.
 Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra.  
 Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme.
 
